@@ -5,10 +5,12 @@ Pink
 Orange
 Blue
 indigo
+gray
 Green
 Unicorn
 Yellow
 Red
+hue
 These are the colours of the rainbow
 And the unicorn.
 ponny
